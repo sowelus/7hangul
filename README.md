@@ -1,2 +1,1 @@
-# 7hangul
-teste
+🇰🇷 Seven Hangul - CROSS PLATFORM APP
