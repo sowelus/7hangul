@@ -1,4 +1,4 @@
-🇰🇷 Seven Hangul - CROSS PLATFORM APP
+### 🇰🇷 Seven Hangul - CROSS PLATFORM APP
 Seven Hangul é um app de aprendizado de coreano para iniciantes, estruturado em 7 módulos com conteúdos diários. Cada etapa desbloqueia um novo aprendizado, com uso de flashcards, áudios e progresso visível.
 
 ### 📱 Visão geral
